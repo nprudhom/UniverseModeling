@@ -22,5 +22,9 @@ namespace Lunar1
 		static void Initialize()
 		{
 		}
+
+		static void Destroy()
+		{
+		}
 	}
 }
