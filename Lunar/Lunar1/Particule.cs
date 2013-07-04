@@ -8,6 +8,12 @@ namespace Lunar1
 {
 	class Particule
 	{
+		#region members
+		private enum particuleType
+		{
+ 
+		}
 
+		# endregion
 	}
 }
