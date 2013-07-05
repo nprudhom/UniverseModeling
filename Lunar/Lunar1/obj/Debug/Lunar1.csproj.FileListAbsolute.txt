@@ -1,1 +1,8 @@
 D:\npr\Documents\GitHub\UniverseModeling\Lunar\Lunar1\bin\Debug\Lunar1.exe.config
+D:\npr\Documents\GitHub\UniverseModeling\Lunar\Lunar1\bin\Debug\Lunar1.exe
+D:\npr\Documents\GitHub\UniverseModeling\Lunar\Lunar1\bin\Debug\Lunar1.pdb
+D:\npr\Documents\GitHub\UniverseModeling\Lunar\Lunar1\obj\Debug\Lunar1.csprojResolveAssemblyReference.cache
+D:\npr\Documents\GitHub\UniverseModeling\Lunar\Lunar1\obj\Debug\Lunar1.Properties.Resources.resources
+D:\npr\Documents\GitHub\UniverseModeling\Lunar\Lunar1\obj\Debug\Lunar1.csproj.GenerateResource.Cache
+D:\npr\Documents\GitHub\UniverseModeling\Lunar\Lunar1\obj\Debug\Lunar1.exe
+D:\npr\Documents\GitHub\UniverseModeling\Lunar\Lunar1\obj\Debug\Lunar1.pdb
