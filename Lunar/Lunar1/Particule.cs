@@ -11,9 +11,8 @@ namespace Lunar1
 		#region members
 		private enum particuleType
 		{
-			quark,
-			lepton,
-			boson
+			electron,
+			nucleus
 		}
 
 		# endregion
