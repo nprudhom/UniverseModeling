@@ -16,6 +16,14 @@ namespace Lunar1
 			boson
 		}
 
+		private string myType;
+
+		public string MyType
+		{
+ 			get 
+		{return myType;}
+			set { myType = value};
+		}
 		# endregion
 	}
 }
